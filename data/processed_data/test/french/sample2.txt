@@ -1,0 +1,3 @@
+Ceci est un fichier texte français d'exemple.
+Il contient du texte à des fins de test.
+Le contenu de ce fichier peut être utilisé pour la détection de la langue.
